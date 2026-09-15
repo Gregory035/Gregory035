@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Привет, я Гриша. Full-stack разработчик: интерфейсы, API и веб-приложения." />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img alt="Змейка собирает клетки моей активности на GitHub" src="./assets/github-snake.svg" />
+</picture>
+
+<sub>generated with [Platane/snk](https://github.com/Platane/snk)</sub>
 
 Я начинающий full-stack разработчик. Пишу на TypeScript и Python: делаю интерфейсы на React, пишу API и работаю с базами данных.
 
@@ -39,11 +43,3 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-163825?style=flat-square&amp;logo=docker&amp;logoColor=86efac" />
   <img alt="Python" src="https://img.shields.io/badge/Python-163825?style=flat-square&amp;logo=python&amp;logoColor=86efac" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img alt="Змейка собирает клетки моей активности на GitHub" src="./assets/github-snake.svg" />
-</picture>
-
-<sub>generated with [Platane/snk](https://github.com/Platane/snk)</sub>
