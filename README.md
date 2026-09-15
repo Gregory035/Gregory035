@@ -4,7 +4,7 @@
   <img alt="Змейка собирает клетки моей активности на GitHub" src="./assets/github-snake.svg" />
 </picture>
 
-<sub>generated with [Platane/snk](https://github.com/Platane/snk)</sub>
+
 
 Я начинающий full-stack разработчик. Пишу на TypeScript и Python: делаю интерфейсы на React, пишу API и работаю с базами данных.
 
