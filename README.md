@@ -12,19 +12,19 @@
 
 ### Мои проекты
 
-**[Slotty ↗](https://github.com/Gregory035/telegram-business-saas)**
+**[Slotty](https://github.com/Gregory035/telegram-business-saas)**
 
 Делаю сервис, через который клиенты малого бизнеса могут записаться на услугу в Telegram. Панель управления пишу на React, серверную часть — на NestJS. Использую PostgreSQL, Redis и Prisma; для запуска настроены Docker и CI.
 
 <sub>TypeScript · React · NestJS · Prisma · PostgreSQL · Redis</sub>
 
-**[Justice Law ↗](https://github.com/Gregory035/justice-law-landing)**
+**[Justice Law](https://github.com/Gregory035/justice-law-landing)**
 
 Сверстал лендинг юридической компании на React и Vite. Добавил интерактивные карточки услуг, модальное окно и форму заявки. Страница адаптирована под мобильные экраны.
 
 <sub>React · Vite · CSS</sub>
 
-**[Prima Booking ↗](https://github.com/Gregory035/prima-booking)**
+**[Prima Booking](https://github.com/Gregory035/prima-booking)**
 
 Учебный проект на Flask: запись на услуги и админка для работы с заявками. Данные хранятся в SQLite.
 
