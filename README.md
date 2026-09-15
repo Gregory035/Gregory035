@@ -1,23 +1,41 @@
-# Привет, я Гриша 👋
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Привет, я Гриша. Full-stack разработчик: интерфейсы, API и веб-приложения." />
+</p>
 
-Начинающий full-stack разработчик. Создаю веб-приложения и SaaS-продукты: от интерфейсов до API, баз данных и инфраструктуры.
+Пишу на TypeScript и Python. Собираю веб-приложения целиком: интерфейс, API, базу данных и запуск в Docker.
 
-Сейчас ищу стажировку, где смогу развиваться в продуктовой разработке и приносить пользу команде.
+Сейчас работаю над сервисом онлайн-записи через Telegram и ищу стажировку в продуктовой команде.
 
-## Проекты
+### Что я делаю
 
-### [Telegram Business SaaS](https://github.com/Gregory035/telegram-business-saas)
+**[Slotty ↗](https://github.com/Gregory035/telegram-business-saas)**
 
-Платформа для малого бизнеса с онлайн-записью через Telegram. Монорепозиторий с NestJS API, React-панелью, PostgreSQL, Redis, Prisma, Docker и CI.
+Онлайн-запись для малого бизнеса через Telegram. Панель управления на React, API на NestJS, PostgreSQL и Redis. Всё в одном монорепозитории с Docker и CI.
 
-### [Justice Law Landing](https://github.com/Gregory035/justice-law-landing)
+<sub>TypeScript · React · NestJS · Prisma · PostgreSQL · Redis</sub>
 
-Адаптивный лендинг юридической компании на React и Vite с интерактивными карточками услуг, модальным окном и формой заявки.
+**[Justice Law ↗](https://github.com/Gregory035/justice-law-landing)**
 
-### [Prima Booking](https://github.com/Gregory035/prima-booking)
+Адаптивный лендинг юридической компании: карточки услуг, модальное окно и форма заявки.
 
-Учебный сервис записи на услуги с Flask, SQLite, административной панелью и управлением заявками.
+<sub>React · Vite · CSS</sub>
 
-## Технологии
+**[Prima Booking ↗](https://github.com/Gregory035/prima-booking)**
 
-`TypeScript` · `JavaScript` · `React` · `Node.js` · `NestJS` · `PostgreSQL` · `Redis` · `Prisma` · `Docker` · `Python` · `Flask`
+Учебный сервис записи на услуги. Административная панель, заявки и работа с базой данных.
+
+<sub>Python · Flask · SQLite</sub>
+
+### С чем работаю
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-163825?style=flat-square&amp;logo=typescript&amp;logoColor=86efac" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-163825?style=flat-square&amp;logo=javascript&amp;logoColor=86efac" />
+  <img alt="React" src="https://img.shields.io/badge/React-163825?style=flat-square&amp;logo=react&amp;logoColor=86efac" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-163825?style=flat-square&amp;logo=nodedotjs&amp;logoColor=86efac" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-163825?style=flat-square&amp;logo=nestjs&amp;logoColor=86efac" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-163825?style=flat-square&amp;logo=postgresql&amp;logoColor=86efac" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-163825?style=flat-square&amp;logo=prisma&amp;logoColor=86efac" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-163825?style=flat-square&amp;logo=docker&amp;logoColor=86efac" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-163825?style=flat-square&amp;logo=python&amp;logoColor=86efac" />
+</p>

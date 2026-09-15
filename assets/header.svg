@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title">
+<title id="title">Привет, я Гриша. Full-stack разработчик.</title>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#21402d" stroke-width=".6"/></pattern><linearGradient id="bg"><stop stop-color="#0d1511"/><stop offset="1" stop-color="#10291b"/></linearGradient></defs>
+<rect width="960" height="300" rx="20" fill="url(#bg)"/>
+<rect x="610" width="350" height="300" rx="20" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="959" height="299" rx="20" fill="none" stroke="#244332"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<circle cx="43" cy="40" r="4" fill="#86efac"/><text x="57" y="45" fill="#a4bbae" font-size="13" letter-spacing="2">GREGORY035 / GITHUB</text>
+<text x="40" y="132" fill="#effff4" font-size="58" font-weight="700">Привет, я Гриша.</text>
+<text x="42" y="175" fill="#86efac" font-size="25">Full-stack разработчик</text>
+<text x="42" y="250" fill="#a4bbae" font-size="16">Интерфейсы · API · веб-приложения</text></g>
+<g fill="none" stroke="#3a7852" stroke-width="1.5"><path d="M660 70H736L784 118H916"/><path d="M636 150H710L758 198H916"/><path d="M686 254H804L916 142"/></g>
+<g fill="#86efac"><circle r="3"><animateMotion dur="5s" repeatCount="indefinite" path="M660 70H736L784 118H916"/></circle><circle r="3"><animateMotion dur="6s" repeatCount="indefinite" path="M636 150H710L758 198H916"/></circle><circle r="3"><animateMotion dur="7s" repeatCount="indefinite" path="M686 254H804L916 142"/></circle></g>
+<rect x="857" y="36" width="61" height="28" rx="7" fill="#142f20" stroke="#31533d"/><text x="870" y="55" fill="#86efac" font-family="monospace" font-size="16">&gt;</text><rect x="890" y="43" width="8" height="14" fill="#86efac"><animate attributeName="opacity" values="1;0;1" dur="1.6s" repeatCount="indefinite"/></rect>
+</svg>
