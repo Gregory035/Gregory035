@@ -39,13 +39,13 @@
 ### С чем работаю
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-163825?style=flat-square&amp;logo=typescript&amp;logoColor=86efac" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-163825?style=flat-square&amp;logo=typescript&amp;" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-163825?style=flat-square&amp;logo=javascript&amp;" />
-  <img alt="React" src="https://img.shields.io/badge/React-163825?style=flat-square&amp;logo=react&amp;logoColor=86efac" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-163825?style=flat-square&amp;logo=nodedotjs&amp;logoColor=86efac" />
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-163825?style=flat-square&amp;logo=nestjs&amp;logoColor=86efac" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-163825?style=flat-square&amp;logo=postgresql&amp;logoColor=86efac" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-163825?style=flat-square&amp;logo=prisma&amp;logoColor=86efac" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-163825?style=flat-square&amp;logo=docker&amp;logoColor=86efac" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-163825?style=flat-square&amp;logo=python&amp;logoColor=86efac" />
+  <img alt="React" src="https://img.shields.io/badge/React-163825?style=flat-square&amp;logo=react&amp;" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-163825?style=flat-square&amp;logo=nodedotjs&amp;" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-163825?style=flat-square&amp;logo=nestjs&amp;" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-163825?style=flat-square&amp;logo=postgresql&amp;" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-163825?style=flat-square&amp;logo=prisma&amp;" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-163825?style=flat-square&amp;logo=docker&amp;" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-163825?style=flat-square&amp;logo=python&amp;" />
 </p>
