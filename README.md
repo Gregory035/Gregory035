@@ -18,6 +18,12 @@
 
 <sub>TypeScript · React · NestJS · Prisma · PostgreSQL · Redis</sub>
 
+**[КРОТ](https://github.com/rub1kub/where-are-we-barista)**
+
+Прототип автономной навигации для хакатона: определяет положение, скорость и азимут воздушного судна по данным радиовысотомера и цифровой карте рельефа.
+
+<sub>TypeScript · React · Three.js · C++ · Rust</sub>
+
 **[Justice Law](https://github.com/Gregory035/justice-law-landing)**
 
 Сверстал лендинг юридической компании на React и Vite. Добавил интерактивные карточки услуг, модальное окно и форму заявки. Страница адаптирована под мобильные экраны.
