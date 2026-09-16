@@ -39,13 +39,30 @@
 ### С чем работаю
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-163825?style=flat-square&amp;logo=typescript&amp;" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-163825?style=flat-square&amp;logo=javascript&amp;" />
-  <img alt="React" src="https://img.shields.io/badge/React-163825?style=flat-square&amp;logo=react&amp;" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-163825?style=flat-square&amp;logo=nodedotjs&amp;" />
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-163825?style=flat-square&amp;logo=nestjs&amp;" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-163825?style=flat-square&amp;logo=postgresql&amp;" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-163825?style=flat-square&amp;logo=prisma&amp;" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-163825?style=flat-square&amp;logo=docker&amp;" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-163825?style=flat-square&amp;logo=python&amp;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" />
+  TypeScript
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" />
+  JavaScript
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" />
+  React
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" />
+  Node.js
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="24" />
+  NestJS
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" />
+  PostgreSQL
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="24" />
+  Prisma
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" />
+  Docker
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" />
+  Python
 </p>
