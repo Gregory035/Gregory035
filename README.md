@@ -47,5 +47,5 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-163825?style=flat-square&amp;logo=postgresql&amp;" />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-163825?style=flat-square&amp;logo=prisma&amp;" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-163825?style=flat-square&amp;logo=docker&amp;" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-163825?logo=python&amp;" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-163825?style=flat-square&amp;" />
 </p>
