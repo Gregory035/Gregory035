@@ -40,7 +40,7 @@
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-163825?style=flat-square&amp;logo=typescript&amp;logoColor=86efac" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-163825?style=flat-square&amp;logo=javascript&amp;logoColor=86efac" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-163825?style=flat-square&amp;logo=javascript&amp;" />
   <img alt="React" src="https://img.shields.io/badge/React-163825?style=flat-square&amp;logo=react&amp;logoColor=86efac" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-163825?style=flat-square&amp;logo=nodedotjs&amp;logoColor=86efac" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-163825?style=flat-square&amp;logo=nestjs&amp;logoColor=86efac" />
